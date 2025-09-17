@@ -1,0 +1,25 @@
+.add-button {
+    padding: 12px ;
+    font-size: 16px;
+    background-color: rgb(238, 173, 184);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    color: white;
+    cursor: pointer;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+    transition: background-color 0.2s ease, box-shadow 0.2s ease;
+    display: inline-block;
+    margin: 12px 0;
+    font-weight: bold;
+  }
+  
+  .add-button:hover {
+    background-color: #0056b3;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  }
+  
+  .add-button:focus {
+    outline: 2px solid #0056b3;
+    outline-offset: 2px;
+  }
+  

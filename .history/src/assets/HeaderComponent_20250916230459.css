@@ -1,0 +1,17 @@
+.header-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px; 
+    background-color: #ffb4f6; 
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 10em;
+  }
+  
+  .header-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0;
+  }
+  

@@ -1,0 +1,20 @@
+import './App.css';
+
+
+function book () {
+    return (
+        <div class="book">
+            <div class="image">
+                <img 
+                    src={}
+                />
+            </div>
+            <p>
+                <span>by</span>
+                <span class="author"></span>
+            </p>
+
+    )
+}
+
+export default book
